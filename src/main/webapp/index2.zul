@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?page id="clientGUI" title="eSira Unilurio"?>
+
+<zk  xmlns="http://www.zkoss.org/2005/zul">
+    <window id="winc">
+        <style>
+
+            .title{
+            font-size:40px
+            }
+            .description-area{
+            alignment: right;
+            margin: 0px 0px 0px 0px;
+            padding: 0px 0px 0px 0px;
+            }
+
+            .second-layout{
+            height: 100%; 
+            width="100%"
+            }
+       
+            .second-layout>.z-hlayout-inner{
+            width: 50%;
+            height: 100%;
+            display:inline-block;
+            }
+       
+            @media screen and (max-width: 1024px) {
+            .second-layout>.z-hlayout-inner{
+	    
+            width: 100%;
+            height: 50%;
+            display:block;
+            }		
+            }
+       
+            @media screen and (max-width: 750px) 
+            .second-layout>.z-hlayout-inner{
+            width: 50%;
+            height: 100%;
+            display:inline-block;
+            }		
+            }
+
+        </style>
+ 
+        <grid apply="esira.controller.Experiencia" >
+            <columns sizable="true">
+                <column hflex="1" vflex="1" align="left" />
+            </columns>
+            <rows>
+                <row>
+                    <hlayout vflex="1" hflex="1" sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <label value="Name:" />
+                        </div>
+                        <div sclass="description-area" height="100%">
+                            <textbox hflex ="1" />
+                        </div>
+                    </hlayout>
+                </row>
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <label value="Address:" />
+                        </div>
+                        <div sclass="description-area" height="100%">
+                            <textbox hflex ="1" rows="5"/>
+                        </div>
+                    </hlayout>
+                </row>
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <button label="Anexar Foto" mold="trendy" upload="true,maxsize=50000">
+                                <attribute name="onUpload"><![CDATA[
+                                           if(event.getMedia()==null)return;
+                                           org.zkoss.util.media.Media media = event.getMedia();
+                                           if (media instanceof org.zkoss.image.Image) {
+                                                org.zkoss.zul.Image image = new org.zkoss.zul.Image();
+                                                img.setContent(media);
+                                                img.setWidth("170px");
+                                                img.setHeight("170px");
+                                                //img.setParent(picss);
+                                                tbimg.value=media.getName();
+                                    lif.value=media;
+                                           } else {
+                                                Clients.showNotification("Por favor carregue uma imagem", "error", null, null, 0,true);
+                                                break;
+                                          }
+                                        ]]>
+                                </attribute>
+                            </button> 
+                        </div>
+                        <div sclass="description-area" style="background-image:url('../images/profilev.png'); width:171px; height:171px;border:1px solid #ddd;">
+                            <textbox style="border:none;background: transparent;position: absolute" width="0px" height="0px" id="tbimg" constraint=" no Empty: Por favor anexar uma imagem!"/>                
+                            <listbox style="border:none;background: transparent;position: absolute" width="0px" height="0px"> 
+                                <listitem  id="lif"/>
+                            </listbox>
+                            <vlayout id="picss" height="171px" width="171px" style="overflow:auto">
+                                <image id="img" />
+                            </vlayout>
+                        </div>
+                    
+                    </hlayout>
+                </row>
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <button label="Anexar recibos" mold="trendy" upload="true,maxsize=50000">
+                                <attribute name="onUpload"><![CDATA[
+                               if(event.getMedias()==null)return;
+                               org.zkoss.util.media.Media[] lm = 
+                               new org.zkoss.util.media.Media[event.getMedias().length+lbimg1.getItemCount()];
+                                int t = 0;
+                               for (int i =0;i<event.getMedias().length;i++)
+                               {
+                                  org.zkoss.util.media.Media m = event.getMedias()[i];
+                                  String f = m.getFormat();
+                                  if (!(m instanceof org.zkoss.image.Image)&&(!f.equalsIgnoreCase("pdf"))&& (!f.equalsIgnoreCase("doc"))
+                                      && (!f.equalsIgnoreCase("xls"))&& (!f.equalsIgnoreCase("docx"))&& (!f.equalsIgnoreCase("xlsx"))) {
+                                         Clients.showNotification("Formato nao suportado", "error", null, null, 0,true);
+                                         return;
+                                  }
+                                  lm[t]=m;
+                                  t=t+1;
+				  for(org.zkoss.zul.Listitem li:lbimg1.getItems()){
+                                            org.zkoss.util.media.Media m2 = (org.zkoss.util.media.Media)li.getValue();
+                                     if(m2.getName().equals(m.getName())){
+                                        Clients.showNotification("Por favor, os nomes devem ser diferentes", "error", null, null, 0,true);
+                                        return;
+                                     }
+                                     if(i==0){
+                                       lm[t]=m2;
+                                       t=t+1;
+                                     }
+                                  }
+                               }
+                               lbimg1.setModel(new ListModelList(lm));
+                                        ]]>
+                                </attribute>
+                            </button> 
+                        </div>
+                        <div sclass="description-area" style="background-image:url('../images/profilev.png');border:1px solid #ddd;">
+                            <textbox style="border:none;background: transparent;position: absolute" width="0px" height="0px" id="tbimg2" constraint=" no Empty: Por favor anexar uma imagem!"/>
+                            <listbox sizedByContent="true" style="overflow:auto" height="100%" id="lbimg1" >
+                                <template name="model">
+                                    <listitem value="${each}">
+                                        <listcell >
+                                            <label value="${each.name}"/>
+                                        </listcell>
+                                        <listcell >
+                                            <button label="ver">
+                                                <attribute name="onClick"><![CDATA[
+                                                Window win = (Window) Executions.createComponents("/report.zul", null, null);
+                                                win.setTitle("Recibo");
+                                                Iframe iframe = (Iframe) win.getFellow("report");
+                                                org.zkoss.util.media.Media m =(org.zkoss.util.media.Media)((Listitem)self.getParent().getParent()).getValue();
+                                                org.zkoss.util.media.Media amedia = new org.zkoss.util.media.AMedia(m.getName(), m.getFormat(), m.getContentType(), m.getStreamData());
+                                                iframe.setContent(amedia);
+                                                ]]>
+                                                </attribute>
+                                            </button>
+                                        </listcell>
+                                        <listcell >
+                                            <button label="apagar">
+                                                <attribute name="onClick"><![CDATA[
+                                                lbimg1.removeChild(((Listitem)self.getParent().getParent()));
+                                                ]]>
+                                                </attribute>
+                                            </button>
+                                        </listcell>
+                                    </listitem>
+                                </template>
+                            </listbox>
+                        </div>
+                    
+                    </hlayout>
+                </row>
+                <!-- .......-->
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <button label="Anexar recibos" mold="trendy" upload="true,maxsize=50000">
+                                <attribute name="onUpload"><![CDATA[
+                               if(event.getMedias()==null)return;
+                               org.zkoss.util.media.Media[] lm = 
+                               new org.zkoss.util.media.Media[event.getMedias().length+lbimg.getItemCount()];
+                                int t = 0;
+                               for (int i =0;i<event.getMedias().length;i++)
+                               {
+                                  org.zkoss.util.media.Media m = event.getMedias()[i];
+                                  String f = m.getFormat();
+                                  if (!(m instanceof org.zkoss.image.Image)&&(!f.equalsIgnoreCase("pdf"))&& (!f.equalsIgnoreCase("doc"))
+                                      && (!f.equalsIgnoreCase("xls"))&& (!f.equalsIgnoreCase("docx"))&& (!f.equalsIgnoreCase("xlsx"))) {
+                                         Clients.showNotification("Formato nao suportado", "error", null, null, 0,true);
+                                         return;
+                                  }
+                                  lm[t]=m;
+                                  t=t+1;
+				  for(org.zkoss.zul.Listitem li:lbimg.getItems()){
+                                            org.zkoss.util.media.Media m2 = (org.zkoss.util.media.Media)li.getValue();
+                                     if(m2.getName().equals(m.getName())){
+                                        Clients.showNotification("Por favor, os nomes devem ser diferentes", "error", null, null, 0,true);
+                                        return;
+                                     }
+                                     if(i==0){
+                                       lm[t]=m2;
+                                       t=t+1;
+                                     }
+                                  }
+                               }
+                               lbimg.setModel(new ListModelList(lm));
+                                        ]]>
+                                </attribute>
+                            </button> 
+                        </div>
+                        <div sclass="description-area" style="background-image:url('../images/profilev.png');border:1px solid #ddd;">
+                            <textbox style="border:none;background: transparent;position: absolute" width="0px" height="0px" id="tbimg3" constraint=" no Empty: Por favor anexar uma imagem!"/>
+                            <listbox  sizedByContent="true" style="overflow:auto" height="100%" id="lbimg" >
+                                <listhead  sizable="true">
+                                    <listheader label="Numero de recibo" align="left"/>
+                                </listhead>
+                                <template name="model">
+                                    <listitem value="${each}">
+                                        <listcell >
+                                            <textbox constraint=" no Empty: Numero de recibo!">
+                                                <attribute name="onCreate"><![CDATA[
+                                                self.setFocus(true);]]>
+                                                </attribute>
+                                                <attribute name="onError"><![CDATA[
+                                              Clients.scrollIntoView(self);
+                                             ]]>
+                                                </attribute>
+                                            </textbox>
+                                            <label visible="false" value="${each.name}"/> 
+                                            <button label="ver">
+                                                <attribute name="onClick"><![CDATA[
+                                                Window win = (Window) Executions.createComponents("/report.zul", null, null);
+                                                win.setTitle("Recibo");
+                                                Iframe iframe = (Iframe) win.getFellow("report");
+                                                org.zkoss.util.media.Media m =(org.zkoss.util.media.Media)((Listitem)self.getParent().getParent()).getValue();
+                                                org.zkoss.util.media.Media amedia = new org.zkoss.util.media.AMedia(m.getName(), m.getFormat(), m.getContentType(), m.getStreamData());
+                                                iframe.setContent(amedia);
+                                                ]]>
+                                                </attribute>
+                                            </button>
+                                   
+                                   
+                                            <button label="apagar">
+                                                <attribute name="onClick"><![CDATA[
+                                                lbimg.removeChild(((Listitem)self.getParent().getParent()));
+                                                ]]>
+                                                </attribute>
+                                            </button>
+                                        </listcell>
+                                    </listitem>
+                                </template>
+                            </listbox>
+                        </div>
+                    
+                    </hlayout>
+                </row>
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <label value="Butao Validacao" />
+                        </div>
+                        <div sclass="description-area" height="100%">
+                            <button id="bv" label="Butao validacao"   />
+                        </div>
+                    </hlayout>
+                </row> 
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <label value="Address:" />
+                        </div>
+                        <div sclass="description-area" height="100%">
+                            <textbox hflex ="1"   rows="5"/>
+                        </div>
+                    </hlayout>
+                </row> 
+                <row >
+                    <grid  >
+                        <columns>
+                            <column  hflex="1" vflex="1" align="left" />
+                        </columns>
+                        <rows>
+                            <row>
+                                <hlayout vflex="1" hflex="1" sclass="second-layout">
+                                    <div sclass="description-area" height="100">
+                                        <label  value="Descricao: "/>
+                                    </div>
+                                    <div sclass="description-area" height="100">
+                                        <textbox hflex ="1" id="tbdescricaopr" width="200px" constraint=" no Empty: Preenche o campo!"/>
+                                    </div>
+                                </hlayout>
+                            </row>
+                            <row>
+                                <hlayout vflex="1" hflex="1" sclass="second-layout">
+                                    <div sclass="description-area" height="100">
+                                        <label  value="Avenida"/>
+                                    </div>
+                                    <div sclass="description-area" height="100">
+                                        <textbox hflex ="1" id="tbavenidapr" width="200px" constraint=" no Empty: Preenche o campo!"/>
+                                    </div>
+                                </hlayout>
+                            </row>
+                            <row>
+                                <hlayout vflex="1" hflex="1" sclass="second-layout">
+                                    <div sclass="description-area" height="100">
+                                        <label  value="Bairro"/>
+                                    </div>
+                                    <div sclass="description-area" height="100">
+                                        <textbox hflex ="1" id="tbbairropr" width="200px" constraint=" no Empty: Preenche o campo!"/>
+                                    </div>
+                                </hlayout>
+                            </row>
+                            <row>
+                                <hlayout vflex="1" hflex="1" sclass="second-layout">
+                                    <div sclass="description-area" height="100">
+                                        <label value="Provincia:"/>
+                                    </div>
+                                    <div sclass="description-area" height="100">
+                                        <combobox hflex ="1" id="cbprovinciapr"  width="200px"   constraint=" no Empty: Seleccione um item!">
+                                            <comboitem label="${each.descricao}"/>
+                                        </combobox>
+                                    </div>
+                                </hlayout>
+                            </row>
+                            <row>
+                                <hlayout vflex="1" hflex="1" sclass="second-layout">
+                                    <div sclass="description-area" height="100">
+                                        <label  value="Contacto"/>
+                                    </div>
+                                    <div sclass="description-area" height="100">
+                                        <textbox hflex ="1" id="tbcontactopr" width="200px" constraint=" no Empty: Preenche o campo!"/>
+                                    </div>
+                                </hlayout>
+                            </row>
+                        </rows>
+                    </grid>
+                </row> 
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <label value="Address:" />
+                        </div>
+                        <div sclass="description-area" height="100%">
+                            <textbox hflex ="1"   rows="5"/>
+                        </div>
+                    </hlayout>
+                </row>
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <label value="Address:" />
+                        </div>
+                        <div sclass="description-area" height="100%">
+                            <textbox hflex ="1"   rows="5"/>
+                        </div>
+                    </hlayout>
+                </row>
+                <row>
+                    <hlayout sclass="second-layout">
+                        <div sclass="description-area" height="100%">
+                            <label value="Address:" />
+                        </div>
+                        <div sclass="description-area" height="100%">
+                            <textbox hflex ="1" id="dd" constraint=" no Empty: Seleccione o periodo semestral!" rows="5">
+                                <attribute name="onError"><![CDATA[
+                                           org.zkoss.zk.ui.util.Clients.scrollIntoView(dd);  
+                                             
+                                        ]]>
+                                </attribute>
+                            </textbox>
+                        </div>
+                    </hlayout>
+                </row>
+            </rows>
+        </grid>
+        <window id="wintalao" position="center,center" closable="false"  border="none"
+            width="50%" apply="esira.controller.PlanoCurricularController" style="margin-top:10px;" visible="false">
+            <!--<toolbar id="tbAddCurso" visible="false">-->
+            <div width="98%" sclass="row-custimized criteriaPad button-blue">
+                <grid  >
+                    <columns>
+                        <column  hflex="1" vflex="1" align="left" />
+                    </columns>
+                    <rows>
+                        <row>
+                            <hlayout vflex="1" hflex="1" sclass="second-layout">
+                                <div sclass="description-area" height="100">
+                                    <label value="Numero do Recibo: *" />
+                                </div>
+                                <div sclass="description-area" height="100">
+                                    <textbox id="txrecibo" width="50%;" constraint=" no Empty: Preenche o Campo!"/>
+                                </div>
+                            </hlayout>
+                        </row>
+                         
+                    </rows>
+                </grid>
+                <div align="center">
+                    <hbox >
+                        <button  id="ac" label="Salvar" mold="trendy" height="20px" />
+                        <button id="canc" label="Cancelar" mold="trendy" height="20px" />
+                    </hbox>
+                </div>
+            </div>
+            <!--</toolbar>-->
+        </window>
+    </window>
+</zk>

@@ -1,0 +1,21 @@
+primeiro colocar base de dados antiga para ver os que teem prescricao
+
+comentar a pare de prescricao na inscricao personalizada
+
+na tabela estudante e no modelo estudante,  aumentar o tamanho de varchar para 255
+
+manter campo valor para diferenciar os que tem bolsa
+
+nome de encarregado e grau de parentesco deve ser ultimo
+
+no recibo data de nascimento nao por a hora
+
+na inscricao personalizada tirar 
+controle de precedencia e activar precedencias
+
+colocar as disciplinas consoante a grade curricular
+
+por disciplinas segundo a grade
+
+
+

@@ -1,0 +1,1648 @@
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante:Abudo Abadre Mustafa
+Número do estudante: 20162004001
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Achimo Sabino Achibué
+Número do estudante: 20142004002
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:          // Mudou de curso em 2016
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Adiane Momade Anli
+Número do estudante: 20162004002
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Adilson dos Santos Greva
+Número do estudante: 20162004003
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante:Ali Damião António
+Número do estudante: 20162004020
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Ali Yunussa
+Número do estudante: 20162004005
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Alvência Dionísio Sanches
+Número do estudante: 20162004006
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Anésia Jaime Manuel Muriezai
+Número do estudante: 20162004007
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Anlawe Abudo
+Número do estudante: 20162004008
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+ 
+   
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Bianca Carlito Alberto
+Número do estudante: 20162004009
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Bibiana Eduarda da Graça Silvino
+Número do estudante: 20162004010
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Cátia Feliciano
+Número do estudante: 20162004012
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Carlos Armando Novais
+Número do estudante: 20162004011
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso: Desistiu 2016
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Chadia de Jamila Mamudo Abudul Jalilo
+Número do estudante: 20142003007
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:     // Mudou de curso em 2016
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante:Cristina Cristiano Paipo Mavangu
+Número do estudante: 20162004013
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso: Desistiu 2016
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Euclides António Sixpene
+Número do estudante: 20162004029
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Fanita Matambo António Nchenga
+Número do estudante: 20122001004
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:      // Mudou de curso 
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Joaquim Francisco Quinova Panchoneia
+Número do estudante: 20162004014
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Joelma da Graça Josefate Pedro
+Número do estudante: 20162004015
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+
+ 
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Julião Chaque Julião
+Número do estudante: 20162004017
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Litos Celestino
+Número do estudante: 20162004019
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Manuel Salvador Tucua
+Número do estudante: 20162004030
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Marure Ângelo Djuma Munguambe
+Número do estudante: 201620040
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Mussagy António Miguel
+Número do estudante: 20162004022
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:   // Anulou a Matricula 2016
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Narciso Alexandre Sitoe
+Número do estudante: 20162004023
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Nelito José
+Número do estudante: 20162004024
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Nilda Agostinho Muquera
+Número do estudante: 20162004016
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Sérgio Ernesto Napulo
+Número do estudante: 20162004025
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+  	
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Sinézio Lázaro Romolia Júnior
+Número do estudante: 20162004018
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Sumeia Ibraimo Sale Daúdo
+Número do estudante: 20162004027
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+ 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Tahira Amina da Costa Khálau Assane
+Número do estudante: 20162004004
+Curso: Licenciatura em Engenharia Geológica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02151101	Geologia	1	6			02151207	Cálculo II	1	6		
+02151102	Cálculo I	1	6			02151208	Mecânica e Ondas	1	6		
+02151103	Química	1	6			02151209	Álgebra Linear e Geometria Analítica	1	6		
+02151104	Computação e Programação	1	6			02151210	Expressão Oral e Escrita Geológica	1	3		
+02151105	Metodologia de Estudo Científico	1	3			02151211	Desenvolvimento Comunitário I 	1	6		
+02151106	Inglês Geral	1	3			02151212	Inglês Específico	1	3		
+02152113	Mecânica das Rochas	2	6			02152219	Recursos Geológicos	2	6		
+02152114	Probabilidades e Estatística	2	3			02152220	Resistência dos Materiais	2	5		
+02152115	Mineralogia e Petrologia	2	6			02152221	Pedologia	2	3		
+02152116	Electromagnetismo e Óptica	2	5			02152222	Topografia	2	6		
+02152117	Cáculo III	2	6			02152223	Estática	2	6		
+02152118	Desenho	2	4			02152224	Desenvolvimento Comunitário II	2	4		
+02153125	Métodos de prospecção	3	6			02153231	Hidráulica	3	5		
+02153126	Sistema de Informação Geográfica	3	5			02153232	Investigação Operacional	3	5		
+02153127	Processamento de Minérios e Resíduos Sólidos I	3	5			02153233	Exploração de Minas	3	5		
+02153128	Hidrogeologia	3	6			02153234	Processamento de Minérios e Resíduos Sólidos II	3	5		
+02153129	Gestão e Organizações	3	3			02153235	Geologia de Sistemas Petrolíferos	3	5		
+02153130	Economia Mineral	3	5			02153236	Dinâmica dos Solos e Minas	3	5		
+02154137	Poluição e Protecção de Águas Subterrâneas	4	6			02154242	Monografia/Estágio/Projecto	4	30		
+02154138	Petróleo e Gás	4	6								
+02154139	Modelização de Reservatórios Petrolíferos	4	6								
+02154140	Mecânica dos Solos	4	6								
+02154141	Recursos Hidrominerais e Geotérmicos	4	6								
+	MÉDIA FINAL										
+
+
+Pemba, aos 14 de Junho 2016
+
+
+ 

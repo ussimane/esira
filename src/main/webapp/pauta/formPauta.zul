@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?link rel="stylesheet" type="text/css" href="/style.css"?>
+
+<zk xmlns="http://www.zkoss.org/2005/zul">
+    <window id="winPauta" title="Pauta" apply="esira.pauta.PautaRegistoController" border="normal" mode="modal" vflex="1" width="50%" contentStyle="overflow:auto" sclass="formNovo">
+        <toolbar >
+            <hbox >
+                <cell >
+                    <hbox >
+                        <div  >
+                        </div>                      
+                    </hbox>                
+                </cell>
+            </hbox>
+        </toolbar > 
+        <div sclass="row-custimized toolbarNovo">
+            <grid >
+                <columns sizable="true">
+                    <column hflex="1" vflex="1" align="left" />
+                </columns>
+                <rows>
+                    <row visible="false">
+                        <intbox id="iddisc" />
+                        <intbox id="item" />
+                        <intbox id="datap" />
+                        <intbox id="semestre" />
+                        <intbox id="ano" />
+                        <intbox id="nrtest"/>
+                    </row>
+                    <row>
+                        <hlayout vflex="1" hflex="1" sclass="second-layout">
+                            <div sclass="description-area" height="100%">
+                                <label id="lbano" value="Disciplinas:"/>
+                            </div>
+                            <div sclass="description-area" height="100%">
+                                <label id="lbsem"/>
+                            </div>
+                        </hlayout>
+                    </row>
+                    <row>
+                        <hlayout vflex="1" hflex="1" sclass="second-layout">
+                            <div sclass="description-area" height="100%">
+                                <label  value="Data:"/>
+                            </div>
+                            <div sclass="description-area" height="100%">
+                                <label id="lbdata"/>
+                            </div>
+                        </hlayout> 
+                    </row>
+                    <row>
+                        <hlayout vflex="1" hflex="1" sclass="second-layout">
+                            <div sclass="description-area" height="100%">
+                                <label  value="Disciplina"/>
+                            </div>
+                            <div sclass="description-area" height="100%">
+                                <combobox id="cbdiscip" forward="onSelect=onSelectdiscip" >
+                                    <comboitem hflex="1" label="${each.descricao}"/>
+                                </combobox>
+                            </div>
+                        </hlayout>
+                    </row>
+                    <row>
+                        <hlayout vflex="1" hflex="1" sclass="second-layout">
+                            <div sclass="description-area" height="100%">
+                                <label  value="Nome da Pauta:"/>
+                            </div>
+                            <div sclass="description-area" height="100%">
+                                <textbox id="txnome"/>
+                            </div>
+                        </hlayout> 
+                    </row>
+                    <row id="rwnome">
+                        <hlayout vflex="1" hflex="1" sclass="second-layout">
+                            <div sclass="description-area" height="100%">
+                                <label  value="Percentagem (%)"/>
+                            </div>
+                            <div sclass="description-area" height="100%">
+                                <intbox id="ibperc"/>
+                            </div>
+                        </hlayout> 
+                    </row>
+                    <row>
+                        <hlayout vflex="1" hflex="1" sclass="second-layout">
+                            <div sclass="description-area" height="100%">
+                                <checkbox id="nrm" forward="onCheck=onCheckPautaRef" label="Criar outra versão de:    " checked="false"/>
+                            </div>
+                            <div sclass="description-area" height="100%">
+                                <combobox id="cbrefpautas" forward="onSelect=onPautaRef" >
+                                    <comboitem hflex="1" label="${each.descricao}"/>
+                                </combobox>
+                            </div>
+                        </hlayout> 
+                    </row>
+                    <row>
+                        <hlayout vflex="1" hflex="1" sclass="second-layout">
+                            <div sclass="description-area" height="100%">
+                                <label  value="Tipo de Pauta:"/>
+                            </div>
+                            <div sclass="description-area" height="100%">
+                                <combobox id="cbtipop" forward="onSelect=onSelecttipop" >
+                                    <comboitem label="Avaliação de Frequência" value="1"/>
+                                    <comboitem label="Classificação de Frequência" value="2"/>
+                                    <comboitem label="Avaliação Final" value="3"/>
+                                    <comboitem label="Avaliação Final (Recorência)" value="4"/>
+                                    <comboitem label="Classificação Final" value="5"/>
+                                </combobox>
+                            </div>
+                        </hlayout>
+                    </row>
+                    <row id="rwpauta">
+                        <listbox id="lbpautaf" />
+                    </row>
+                    <row>
+                        <label id="lbf"/>
+                        <button id="idf" image="/icon/chevrons.png" label="Usar formula">
+                            <attribute name="onCreate"><![CDATA[
+                               dvf.setVisible(!dvf.isVisible());
+                               if(dvf.isVisible()){
+                               self.setImage("/icon/down.png"); }else{
+                                     self.setImage("/icon/chevrons.png");
+                                 }
+                           ]]></attribute>
+                        </button>
+                        <div visible="false" id="dvf">
+                            <combobox id="cbfor">
+                                <comboitem label="Mêdia" value="1"/>
+                                <comboitem label="Semestre 2" value="2"/>
+                            </combobox>
+                            <listbox sizedByContent="true" hflex="1" sclass="mylitem4 mylitem5" oddRowSclass="non-odd" id="lbpercent" style="overflow:auto" span="true" rows="10" height="100%" checkmark="true" vflex="1">
+                                <template name="model" >
+                                    <listitem value="${each}">
+                                        <listcell >
+                                            <listcell >
+                                                <label value="${each.descricao}" />
+                                            </listcell>
+                                            <listcell >
+                                                <intbox value="${each.percent}" constraint=" no Empty: Introduza o Valor!" width="50%"/>
+                                            </listcell>
+                                        </listcell>                                      
+                                    </listitem>	
+                                </template>		
+                            </listbox>
+                            <button label="Actualizar" forward="onClick=onActualizarPerc" sclass="mybutton button blue small"/>
+                        </div>
+                    </row>
+                    <row id="mpauta" visible="false">
+                        <listbox span="true"  width="100%" sclass="unselectl" hflex="max" height="100%" forward="onSelect=onSelectlbpautaf" oddRowSclass="non-odd" rows="10" vflex="1" checkmark="true"  >
+                            <listhead>
+                                <listheader width="25px" >
+                                    <label value="."/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="NrMec"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Estudante"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Classificação"/>
+                                </listheader>
+                            </listhead>
+                            <template name="model" >
+                                <listitem value="${each}">
+                                    <listcell >
+                                        <label value="" />
+                                    </listcell> 
+                                    <listcell >
+                                        <label value="${each.inscricao.idEstudante.nrEstudante}" />
+                                    </listcell> 
+                                    <listcell >
+                                        <label value="${each.inscricao.idEstudante.nomeCompleto}" />
+                                    </listcell> 
+                                    <listcell >
+                                        <doublebox width="50%" constraint=" no Empty: Introduza o Valor!">
+                                            <attribute name="onCreate"><![CDATA[
+                                                     self.setDisabled(true);
+                                            ]]></attribute>
+                                        </doublebox>
+                                    </listcell>
+                                </listitem>
+                            </template>
+                        </listbox>
+                        <listbox span="true" width="100%" sclass="unselectl" hflex="max" height="100%" forward="onSelect=onSelectlbpautaf" oddRowSclass="non-odd" rows="10" vflex="1" checkmark="true"  >
+                            <listhead>
+                                <listheader width="25px" >
+                                    <label value="."/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="NrMec"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Estudante"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Classificação"/>
+                                </listheader>
+                            </listhead>
+                            <template name="model" >
+                                <listitem value="${each}">
+                                    <attribute name="onCreate"><![CDATA[ 
+                                         org.zkoss.zul.Listcell lc;
+                                         org.zkoss.zul.Label l;
+                                         esira.entidade.PautaClassFreq id = (esira.entidade.PautaClassFreq)self.getValue();
+                                         lc = new org.zkoss.zul.Listcell();
+                                         l = new org.zkoss.zul.Label();
+                                         l.setValue("");
+                                l.setParent(lc);
+                                self.getChildren().add(0,lc);
+                                            lc = new org.zkoss.zul.Listcell();
+                                         l = new org.zkoss.zul.Label();
+                                         l.setValue(id.getEstudante().getNrEstudante());
+                                l.setParent(lc);
+                                self.getChildren().add(1,lc);
+                                            lc = new org.zkoss.zul.Listcell();
+                                         l = new org.zkoss.zul.Label();
+                                         l.setValue(id.getEstudante().getNomeCompleto());
+                                l.setParent(lc);
+                                self.getChildren().add(2,lc);
+                                        int k = 3;
+                                          for(Float f : id.getAvaliacao){
+                                            lc = new org.zkoss.zul.Listcell();
+                                            l = new org.zkoss.zul.Label();
+                                            if(f.isNaN()){
+                                               l.setValue(f);
+                                            }else{
+                                               l.setValue("");
+                                            }
+                                        l.setParent(lc);
+                                self.getChildren().add(k,lc);
+                                        k=k+1;
+                                           }
+                                        lc = new org.zkoss.zul.Listcell();
+                                        l = new org.zkoss.zul.Doublebox();
+                                        l.setValue(id.getMedia());
+                                        l.setConstraint(" no Empty: Introduza o Valor!");
+                                        l.setDisabled(true);
+                                l.setParent(lc);
+                                self.getChildren().add(k,lc);
+                                         ]]></attribute>
+                                </listitem>
+                            </template>
+                        </listbox>
+                        <listbox span="true" width="100%" sclass="unselectl" hflex="max" height="100%" forward="onSelect=onSelectlbpautaf" oddRowSclass="non-odd" rows="10" vflex="1" checkmark="true"  >
+                            <listhead>
+                                <listheader width="25px" >
+                                    <label value="."/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="NrMec"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Estudante"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Classificação"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Resultado Qualitativo"/>
+                                </listheader>
+                            </listhead>
+                            <template name="model" >
+                                <listitem value="${each}">
+                                    <listcell >
+                                        <label value="" />
+                                    </listcell> 
+                                    <listcell >
+                                        <label value="${each.inscricao.idEstudante.nrEstudante}" />
+                                    </listcell> 
+                                    <listcell >
+                                        <label value="${each.inscricao.idEstudante.nomeCompleto}" />
+                                    </listcell> 
+                                    <listcell >
+                                        <doublebox width="50%" constraint=" no Empty: Introduza o Valor!">
+                                            <attribute name="onCreate"><![CDATA[
+                                                     self.setDisabled(true);
+                                            ]]></attribute>
+                                        </doublebox>
+                                    </listcell>
+                                    <listcell >
+                                        <label value=""/>
+                                    </listcell>
+                                </listitem>
+                            </template>
+                        </listbox>
+                        <listbox span="true" width="100%" sclass="unselectl" hflex="max" height="100%" forward="onSelect=onSelectlbpautaf" oddRowSclass="non-odd" rows="10" vflex="1" checkmark="true"  >
+                            <listhead>
+                                <listheader width="25px" >
+                                    <label value="."/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="NrMec"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Estudante"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Média de Frequência"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Resultado Qualitativo de Frequência"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Exame Final"/>
+                                </listheader>
+                                 <listheader align="center" >
+                                    <label value="Exame de Rercorrência"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Avaliação Final"/>
+                                </listheader>
+                                <listheader align="center" >
+                                    <label value="Resultado Final Qualitativo"/>
+                                </listheader>
+                            </listhead>
+                            <template name="model" >
+                                <listitem value="${each}">
+                                    <attribute name="onCreate"><![CDATA[ 
+                                         org.zkoss.zul.Listcell lc;
+                                         org.zkoss.zul.Label l;
+                                         esira.entidade.PautaClassFreq id = (esira.entidade.PautaClassFreq)self.getValue();
+                                         lc = new org.zkoss.zul.Listcell();
+                                         l = new org.zkoss.zul.Label();
+                                         l.setValue("");
+                                l.setParent(lc);
+                                self.getChildren().add(0,lc);
+                                            lc = new org.zkoss.zul.Listcell();
+                                         l = new org.zkoss.zul.Label();
+                                         l.setValue(id.getEstudante().getNrEstudante());
+                                l.setParent(lc);
+                                self.getChildren().add(1,lc);
+                                            lc = new org.zkoss.zul.Listcell();
+                                         l = new org.zkoss.zul.Label();
+                                         l.setValue(id.getEstudante().getNomeCompleto());
+                                l.setParent(lc);
+                                self.getChildren().add(2,lc);
+                                        int k = 3;
+                                          for(Float f : id.getAvaliacao){
+                                            lc = new org.zkoss.zul.Listcell();
+                                            l = new org.zkoss.zul.Label();
+                                            if(f.isNaN()){
+                                               l.setValue(f);
+                                            }else{
+                                               l.setValue("");
+                                            }
+                                        l.setParent(lc);
+                                self.getChildren().add(k,lc);
+                                        k=k+1;
+                                           }
+                                        lc = new org.zkoss.zul.Listcell();
+                                         l = new org.zkoss.zul.Doublebox();
+                                         l.setValue(id.getMedia());
+                                        l.setConstraint(" no Empty: Introduza o Valor!");
+                                        l.setDisabled(true);
+                                l.setParent(lc);
+                                self.getChildren().add(k,lc);
+                                         ]]></attribute>
+                                </listitem>
+                            </template>
+                        </listbox>
+                    </row>
+                </rows>
+            </grid>
+            <div align="center">
+                <hbox >
+                    <button autodisable="self" id="btnSave" sclass="mybutton button blue medium" forward="onClick=onSalvaPauta" label="Aceitar" style="margin:10px 0 0 10px;" mold="trendy" ></button>
+                    <button autodisable="self" label="Cancelar" forward="onClick=onCancPauta" sclass="mybutton button medium" style="margin:10px 0 0 0px;" mold="trendy" />
+                </hbox>
+            </div>
+        </div>
+    </window>
+</zk>

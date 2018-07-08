@@ -1,0 +1,1680 @@
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Abel Júlio Abduremane
+Número do estudante: 20162003001
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5		2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Américo Gaspar Vasco
+Número do estudante: 20162003004
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	10	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	10	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	13	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Amido Pereira Abacar Mussa
+Número do estudante: 20162003019
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5		2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Armando Horácio João António
+Número do estudante: 20162003005
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	11	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	11	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	12	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Assane Mussa Assane
+Número do estudante: 20162003006
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	R	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Atija Rachide Ali Bacar
+Número do estudante: 20162003007
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	11	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Azarias Domingos Samuel
+Número do estudante: 20162003032
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	12	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Bartolomeu Júlio Chiziane
+Número do estudante: 20162003008
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	16	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	13	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Bernabé Luís Manhoca
+Número do estudante: 20162003009
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	12	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	12	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	17	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Eugénio Antune Grabriel Jaime
+Número do estudante: 20162003024
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	11	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	R	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Gervásio das Neves Aquilas
+Número do estudante: 20162003031
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	11	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	10	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	18	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Hegino Dapona Alaue
+Número do estudante: 20162003012
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	12	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	15	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Hisham Rosário Acubo
+Número do estudante: 20162003013
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	10	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Jerusa Patrício Maquina
+Número do estudante: 20162003015
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	13	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	13	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	17	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: João Malissane China Nota
+Número do estudante: 20162003016
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	15	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	12	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: José da Silva Guanja
+Número do estudante: 20162003017
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	10	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	13	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: José Maria Mariano da Silva
+Número do estudante: 20162003029
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	12	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	12	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Julião Victorino Julião Chiziane
+Número do estudante: 20162003018
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	14	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	16	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Jumilto Denito Graciano
+Número do estudante: 20162003021
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5		2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Latifa Jacinto
+Número do estudante: 20162003003
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5		2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Latia Sobrinho Mafuca
+Número do estudante: 20162003020
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5		2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Manuel Sungundai Araujo
+Número do estudante: 20162003022
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Marcelo Casimiro M. Maecene
+Número do estudante: 20162003023
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	12	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	10	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	13	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Milton Cesar Almeida
+Número do estudante: 20162003025
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	R	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	R	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Mucole João Selemane
+Número do estudante: 20162003027
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	14	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	16	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Muhade Koita
+Número do estudante: 20162003028
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso: Desistiu, não frequentou o ano 2016
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	D	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	D	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Nawere da Rosa João Eduardo
+Número do estudante: 20162003014
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3		2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	R	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Rosário Gonçalves Cussanguia
+Número do estudante: 20162003030
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	13	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	11	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	14	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 
+
+ 
+UNIVERSIDADE LÚRIO
+Faculdade de Engenharia
+Departamento dos Serviços Académicos
+Campus Universitário, bairro Eduardo Mondlane
+Pemba - Moçambique
+Nome do estudante: Stelio Albino Trinta Matola
+Número do estudante: 20162003013
+Curso: Licenciatura em Engenharia Mecânica
+Ano de Ingresso: 2016
+Ano de conclusão do curso:
+
+
+Código	1º Semestre	
+
+Código	2º Semestre
+	
+Disciplina	
+Nível 	 Créditos	
+Classific	Ano da realização da disciplina		
+Disciplina	
+Nível	
+Créditos 	
+Classific	Ano da realização da disciplina
+02031101	Técnicas de Expressão e Comunicação	1º	3	12	2016	02031208	Ciência e Tecnologia dos Materiais	1º	5		2016
+02031102	Inglês I	1º	3		2016	02031209	Métodos Numéricos em Engenharia	1º	3		2016
+02031103	Álgebra Linear e Geometria Analítica	1º	5	R	2016	02031210	Inglês Específico para Engenharia Mecânica	1º	4		2016
+02031104	Metodologia de Estudo Científico	1º	4		2016	02031211	Mecânica Geral	1º	5		2016
+02031105	Cálculo I	1º	6		2016	02031212	Cálculo II	1º	6		2016
+02031106	Aplicacionais para Ciências e Engenharia	1º	5	11	2016	02031213	Desenho e Métodos Gráficos	1º	4		2016
+02031107	Física Geral	1º	4		2016	02031214	Electrotecnia e Electrónica	1º	3		2016
+02032115	Cálculo III	2º	6		2017	02032222	Mecânica Computacional	2º	4		2017
+02032116	Desenho de Construções Mecânicas	2º	4		2017	02032223	Mecânica dos Fluidos	2º	5		2017
+02032117	Termodinâmica	2º	4		2017	02032224	Oleoidáulica	2º	5		2017
+02032118	Automação Industrial	2º	4		2017	02032225	Mecânica dos Materiais II	2º	5		2017
+02032119	Mecânica dos Materiais I	2º	5		2017	02032226	Transferência de Calor	2º	4		2017
+02032120	Metalurgia Mecânica	2º	4		2017	02032227	Tratamentos Térmicos	2º	4		2017
+02032121	Desenvolvimento Comunitário Aplicado à Engenharia I	2º	3		2017	02032228	Desenvolvimento Comunitário Aplicado à Engenharia II	2º	3		2017
+02033129	Mecânica dos Matérias III	3º	5		2018	02033235	Energética Industrial	3º	5		2018
+02033130	Controlo de Processos	3º	5		2018	02033236	Máquinas Térmicas e de Fluidos	3º	5		2018
+02033131	Tecnologia da Fundição	3º	5		2018	02033237	Tecnologia da Soldadura	3º	5		2018
+02033132	Tecnologia do Fabrico I	3º	5		2018	02033238	Tecnologia do Fabrico II	3º	5		2018
+02033133	Tribologia e Manutenção Industrial	3º	5		2018	02033239	Órgãos de Máquinas I	3º	6		2018
+02033134	Metrologia Industrial	3º	5		2018	02033240	Análise de Custos Industriais	3º	4		2018
+02034141	Órgãos de Máquinas II	4º	6		2019	02034247	Trabalho de Conclusão do Curso: Revisão Bibliográfica, Projecto de Investigação e Inovação, Estágio Profissional	4º	30		2019
+02034142	Estruturas Metálicas	4º	5		2019						
+02034143	Projecto de Redes de Fluidos	4º	5		2019						
+02034144	Projecto Mecânico	4º	5		2019						
+02034145	Energia e Ambiente	4º	5		2019						
+02034146	Organização e Gestão da Produção	4º	4		2019						
+											
+Pemba, aos 13 de Junho 2016
+                         Chefe de Depto. dos Serv. Académicos    	                                                                                                                                                   Coordenador do Curso
+
+           	
+______________________________________                                                           	                                                                  ______________________________
+                              Engº. Maurício Filipe João Quembo                                                                                                                                                           Yisel Castañeda Rodriguez , MSc. 

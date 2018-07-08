@@ -1,0 +1,147 @@
+<?page title="Practice List" contentType="text/html;charset=UTF-8"?>
+<zk>
+
+    <style>
+        .mylist .z-listbox { background: none repeat scroll 0 0 #FFFFFF;
+        border: 1px solid #CFCFCF; overflow: hidden; }
+
+        .mylist .z-listitem-seld { background-image: none; }
+
+        /* Selected rows with the mouse hovering over them */ .mylist
+        .overseld, .mylist.overseld, .mylist .z-listitem-over,.mylist
+        .z-listitem-over-seld { background-image: none;
+        background-color: transparent; }
+
+        /* Odd rows in a listbox */ .mylist .odd .mylist .gc,.mylist
+        .odd,.mylist .z-listbox-odd,.mylist .z-grid-odd .mylist
+        .z-row-inner,.mylist .z-grid-odd { background: #F4FAFD none
+        repeat scroll 0 0; }
+
+
+        /* Header and Footer Font and Height */ .mylist
+        .z-listfooter-cnt, .mylist .z-listheader-cnt { border: 0 none;
+        color: black; font-family: "Tahoma", verdana, arial, sans-serif;
+        font-size: 11px; margin: 0; height: 13px; }
+
+        /* Cell Height and Font */ .mylist .z-listfooter-cnt, .mylist
+        .z-listcell-cnt,.mylist .z-listheader-cnt { font-size: 11px;
+        font-family: "Tahoma", verdana, arial, sans-serif; height: 13px;
+        }
+
+        .mylist .z-listbox-body .z-listcell,.mylist.z-listbox-footer
+        .z-listfooter { cursor: default; }
+
+        .mylist .z-listheader-sort-img { float: left; font-size: 0;
+        left: 90%; margin-left: auto; margin-right: auto; position:
+        absolute; }
+
+        .mylist .z-listbox-header tr.z-listhead, div.z-listbox-header
+        tr.z-auxhead {
+
+        background-image: none; background-color: #E0F7BA; color: white;
+        }
+
+
+        .mylist .z-listbox-header th.z-listheader-sort-over {
+        background-image: none; }
+    </style>
+
+    <window title="Practice List" border="normal" >
+        <separator />
+        List Box with sclass CSS Customization
+        <separator />
+        <listbox id="box1" mold="paging" pageSize="5" sclass="mylist">
+            <listhead sizable="true">
+                <listheader label="Practice Name" sort="auto" />
+                <listheader label="City" sort="auto" />
+                <listheader label="State" sort="auto" />
+                <listheader label="Zip Code" sort="auto" />
+            </listhead>
+            <listitem>
+                <listcell label="Adult Medical Day Care" />
+                <listcell label="Cumberland" />
+                <listcell label="Maryland" />
+                <listcell label="21502" />
+            </listitem>
+            <listitem>
+                <listcell label="Baptist Medical Center" />
+                <listcell label="Kansas" />
+                <listcell label="Missouri" />
+                <listcell label="64131" />
+            </listitem>
+            <listitem>
+                <listcell label="California Medical Facility" />
+                <listcell label="Vacaville" />
+                <listcell label="California" />
+                <listcell label="95696" />
+            </listitem>
+            <listitem>
+                <listcell label="Garden Park Medical Cente" />
+                <listcell label="Gulfport" />
+                <listcell label="Mississipp" />
+                <listcell label="395033085" />
+            </listitem>
+            <listitem>
+                <listcell label="Albion Health Center" />
+                <listcell label="Albion" />
+                <listcell label="New york" />
+                <listcell label="14420" />
+            </listitem>
+            <listitem>
+                <listcell label="Beacon Community Health Center" />
+                <listcell label="Beacon" />
+                <listcell label="New york" />
+                <listcell label="12508" />
+            </listitem>
+        </listbox>
+
+        <separator />
+        List Box with default ZK CSS 
+        <separator />
+
+        <listbox id="box2" mold="paging" pageSize="5">
+            <listhead sizable="true">
+                <listheader label="Practice Name" sort="auto" />
+                <listheader label="City" sort="auto" />
+                <listheader label="State" sort="auto" />
+                <listheader label="Zip Code" sort="auto" />
+            </listhead>
+            <listitem>
+                <listcell label="Adult Medical Day Care" />
+                <listcell label="Cumberland" />
+                <listcell label="Maryland" />
+                <listcell label="21502" />
+            </listitem>
+            <listitem>
+                <listcell label="Baptist Medical Center" />
+                <listcell label="Kansas" />
+                <listcell label="Missouri" />
+                <listcell label="64131" />
+            </listitem>
+            <listitem>
+                <listcell label="California Medical Facility" />
+                <listcell label="Vacaville" />
+                <listcell label="California" />
+                <listcell label="95696" />
+            </listitem>
+            <listitem>
+                <listcell label="Garden Park Medical Cente" />
+                <listcell label="Gulfport" />
+                <listcell label="Mississipp" />
+                <listcell label="395033085" />
+            </listitem>
+            <listitem>
+                <listcell label="Albion Health Center" />
+                <listcell label="Albion" />
+                <listcell label="New york" />
+                <listcell label="14420" />
+            </listitem>
+            <listitem>
+                <listcell label="Beacon Community Health Center" />
+                <listcell label="Beacon" />
+                <listcell label="New york" />
+                <listcell label="12508" />
+            </listitem>
+        </listbox>
+    </window>
+</zk>
