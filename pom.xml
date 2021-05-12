@@ -10,7 +10,7 @@
         <maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
         <packname>-${project.version}-FL-${maven.build.timestamp}</packname>
         <spring.version>4.1.6.RELEASE</spring.version>
-        <spring-security.version>3.2.0.M1</spring-security.version>
+        <spring-security.version>5.2.10.RELEASE</spring-security.version>
         <netbeans.hint.deploy.server>Tomcat</netbeans.hint.deploy.server>
     </properties>
     <packaging>war</packaging>
